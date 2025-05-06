@@ -1,0 +1,11 @@
+question,answer
+What keyword is used to define a function in Python?,def
+Which data type is used to store True or False values?,bool
+What symbol is used to comment a single line in Python?,#
+What built-in function is used to get input from a user?,input
+Which keyword is used to create a loop that repeats a block of code?,for
+What data structure uses key-value pairs?,dictionary
+Which keyword is used to handle exceptions?,try
+What function returns the length of a list or string?,len
+What is the keyword for an empty block or placeholder in Python?,pass
+Which data type is immutable: list or tuple?,tuple
